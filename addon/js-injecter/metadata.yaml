@@ -1,8 +1,5 @@
-description: 私有化前端定制化解耦组件，通过动态注入JS代码，实现在不改标品的前提下，修改私有化前端页面和逻辑。
-icon: ""
-invisible: false
 name: js-injecter
-url: https://ku.baidu-int.com/knowledge/HFVrC7hq1Q/ZXYdAhTZjt/5s4Imfp_6q/4G3u0VTE8tUn9D
+description: 动态JS代码注入
 tags:
 - js
-version: 1.0.0
+version: 0.0.1
